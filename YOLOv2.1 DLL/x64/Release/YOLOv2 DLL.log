@@ -1,0 +1,8 @@
+﻿  dll.cpp
+dll.cpp(181): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+     Creating library C:\Users\Martin\Desktop\YOLOv2.1-Framework\YOLOv2.1 DLL\x64\Release\YOLOv21.lib and object C:\Users\Martin\Desktop\YOLOv2.1-Framework\YOLOv2.1 DLL\x64\Release\YOLOv21.exp
+  Generating code
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  YOLOv2 DLL.vcxproj -> C:\Users\Martin\Desktop\YOLOv2.1-Framework\YOLOv2.1 DLL\x64\Release\YOLOv21.dll
+  YOLOv2 DLL.vcxproj -> C:\Users\Martin\Desktop\YOLOv2.1-Framework\YOLOv2.1 DLL\x64\Release\YOLOv21.pdb (Full PDB)

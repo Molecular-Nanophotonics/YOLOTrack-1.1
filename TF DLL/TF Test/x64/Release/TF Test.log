@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\libtensorflow\include\tensorflow/c/c_api.h(1146): warning C4190: 'TF_NewWhile' has C-linkage specified, but returns UDT 'TF_WhileParams' which is incompatible with C
+  C:\libtensorflow\include\tensorflow/c/c_api.h(1102): note: see declaration of 'TF_WhileParams'
+  Generating code
+  All 126 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TF Test.vcxproj -> C:\Users\Martin\Desktop\TensorFlow Check\x64\Release\TF Test.exe
+  TF Test.vcxproj -> C:\Users\Martin\Desktop\TensorFlow Check\x64\Release\TF Test.pdb (Full PDB)
