@@ -7,7 +7,7 @@
 Example on how to use `TF.dll` and `YOLOv2.dll` in a Qt/C++ application.
 
 <p align="center">
-  <img src="../Resources/YOLOv2-Qt-Screenshot.png" width=500> <br><br>
+  <img src="../Resources/YOLOv21-Qt-Screenshot.png" width=500> <br><br>
   <b>Fig. 1</b> Screenshot of the Qt/C++ application.
 </p>
 
