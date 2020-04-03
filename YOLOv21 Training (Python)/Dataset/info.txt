@@ -1,0 +1,14 @@
+[Section1]
+nimages = [25000, 2500, 100]
+
+[Section2]
+label_list = Janus
+parameters_list = [[[1], [9], [3]]]
+n_list = [1, 15]
+
+[Section3]
+snr_range = [1, 30]
+i_range = [0.1, 1]
+distance = 15
+offset = 15
+

@@ -1,0 +1,10 @@
+﻿  dll.cpp
+dll.cpp(186): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+     Creating library C:\Users\Martin\Desktop\YOLOv21-Framework\YOLOv21 DLL\x64\Release\YOLOv21.lib and object C:\Users\Martin\Desktop\YOLOv21-Framework\YOLOv21 DLL\x64\Release\YOLOv21.exp
+  Generating code
+  8 of 8 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  YOLOv21 DLL.vcxproj -> C:\Users\Martin\Desktop\YOLOv21-Framework\YOLOv21 DLL\x64\Release\YOLOv21.dll
+  YOLOv21 DLL.vcxproj -> C:\Users\Martin\Desktop\YOLOv21-Framework\YOLOv21 DLL\x64\Release\YOLOv21.pdb (Full PDB)
