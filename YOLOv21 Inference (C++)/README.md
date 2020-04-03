@@ -1,10 +1,10 @@
-# YOLOv2 Inference (C++)
+# YOLOv21 Inference (C++)
 
 *M. Fränzl*, Molecular Nanophtonics Group
 
 ## Discription
 
-Example on how to use `TF.dll` and `YOLOv2.dll` in a Qt/C++ application.
+Example on how to use `TF.dll` and `YOLOv21.dll` in a Qt/C++ application.
 
 <p align="center">
   <img src="../Resources/YOLOv21-Qt-Screenshot.png" width=500> <br><br>
