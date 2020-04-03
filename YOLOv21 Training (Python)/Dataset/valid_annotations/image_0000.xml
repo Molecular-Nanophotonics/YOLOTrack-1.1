@@ -1,0 +1,51 @@
+<annotation>
+    <folder>valid_images</folder>
+    <filename>image_0000.jpg</filename>
+    <path>/home/mona/Public/Martin/YOLOv2.1 Training (Python)/Dataset/valid_images/image_0000.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>416</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Janus</name>
+        <orientation>0.89324353434266</orientation>
+        <bndbox>
+            <xmin>29.21776316533972</xmin>
+            <ymin>70.12890190953449</ymin>
+            <xmax>59.21776316533972</xmax>
+            <ymax>100.12890190953449</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Janus</name>
+        <orientation>0.17944147491431628</orientation>
+        <bndbox>
+            <xmin>78.15218202656288</xmin>
+            <ymin>84.58650594365811</ymin>
+            <xmax>108.15218202656288</xmax>
+            <ymax>114.58650594365811</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Janus</name>
+        <orientation>0.6447757124250708</orientation>
+        <bndbox>
+            <xmin>329.5140711328616</xmin>
+            <ymin>63.86937125557267</ymin>
+            <xmax>359.5140711328616</xmax>
+            <ymax>93.86937125557267</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Janus</name>
+        <orientation>0.06869790743949589</orientation>
+        <bndbox>
+            <xmin>101.44107529651974</xmin>
+            <ymin>195.4701123229201</ymin>
+            <xmax>131.44107529651973</xmax>
+            <ymax>225.4701123229201</ymax>
+        </bndbox>
+    </object>
+</annotation>

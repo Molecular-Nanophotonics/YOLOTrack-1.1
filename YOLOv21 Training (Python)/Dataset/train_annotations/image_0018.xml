@@ -1,0 +1,69 @@
+<annotation>
+    <folder>train_images</folder>
+    <filename>image_0018.jpg</filename>
+    <path>/home/mona/Public/Martin/YOLOv2.1 Training (Python)/Dataset/train_images/image_0018.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>416</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Janus</name>
+        <orientation>0.2217324073331337</orientation>
+        <bndbox>
+            <xmin>206.47413340534823</xmin>
+            <ymin>100.52325898366976</ymin>
+            <xmax>236.47413340534823</xmax>
+            <ymax>130.52325898366976</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Janus</name>
+        <orientation>0.6284946694547422</orientation>
+        <bndbox>
+            <xmin>360.4145287743097</xmin>
+            <ymin>336.11095834121966</ymin>
+            <xmax>390.4145287743097</xmax>
+            <ymax>366.11095834121966</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Janus</name>
+        <orientation>0.17956665515360726</orientation>
+        <bndbox>
+            <xmin>309.80375054101137</xmin>
+            <ymin>29.623862166543027</ymin>
+            <xmax>339.80375054101137</xmax>
+            <ymax>59.62386216654303</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Janus</name>
+        <orientation>0.2702796821764025</orientation>
+        <bndbox>
+            <xmin>283.6577123193065</xmin>
+            <ymin>340.6673850677755</ymin>
+            <xmax>313.6577123193065</xmax>
+            <ymax>370.6673850677755</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Janus</name>
+        <orientation>0.6503912168590786</orientation>
+        <bndbox>
+            <xmin>256.89885933925126</xmin>
+            <ymin>229.65590662848285</ymin>
+            <xmax>286.89885933925126</xmax>
+            <ymax>259.65590662848285</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Janus</name>
+        <orientation>0.15886856681680794</orientation>
+        <bndbox>
+            <xmin>244.256326198205</xmin>
+            <ymin>255.49709326929894</ymin>
+            <xmax>274.256326198205</xmax>
+            <ymax>285.49709326929894</ymax>
+        </bndbox>
+    </object>
+</annotation>

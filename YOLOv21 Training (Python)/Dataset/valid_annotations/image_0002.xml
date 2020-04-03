@@ -1,0 +1,24 @@
+<annotation>
+    <folder>valid_images</folder>
+    <filename>image_0002.jpg</filename>
+    <path>/home/mona/Public/Martin/YOLOv2.1 Training (Python)/Dataset/valid_images/image_0002.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>416</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Janus</name>
+        <orientation>0.9117698828355535</orientation>
+        <bndbox>
+            <xmin>252.63767160842195</xmin>
+            <ymin>19.241039579903358</ymin>
+            <xmax>282.63767160842195</xmax>
+            <ymax>49.24103957990336</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,33 @@
+<annotation>
+    <folder>test_images</folder>
+    <filename>image_0000.jpg</filename>
+    <path>/home/mona/Public/Martin/YOLOv2.1 Training (Python)/Dataset/test_images/image_0000.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>416</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Janus</name>
+        <orientation>0.2905442395164992</orientation>
+        <bndbox>
+            <xmin>113.28948614918627</xmin>
+            <ymin>324.23363556166163</ymin>
+            <xmax>143.28948614918627</xmax>
+            <ymax>354.23363556166163</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Janus</name>
+        <orientation>0.3964822790789013</orientation>
+        <bndbox>
+            <xmin>380.73870351741255</xmin>
+            <ymin>0.7719432068140897</ymin>
+            <xmax>410.73870351741255</xmax>
+            <ymax>30.77194320681409</ymax>
+        </bndbox>
+    </object>
+</annotation>

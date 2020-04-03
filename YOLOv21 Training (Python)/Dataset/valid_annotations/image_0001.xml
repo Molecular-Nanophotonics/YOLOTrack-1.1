@@ -1,0 +1,60 @@
+<annotation>
+    <folder>valid_images</folder>
+    <filename>image_0001.jpg</filename>
+    <path>/home/mona/Public/Martin/YOLOv2.1 Training (Python)/Dataset/valid_images/image_0001.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>416</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Janus</name>
+        <orientation>0.8797154487602041</orientation>
+        <bndbox>
+            <xmin>152.44160756664235</xmin>
+            <ymin>366.460250560304</ymin>
+            <xmax>182.44160756664235</xmax>
+            <ymax>396.460250560304</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Janus</name>
+        <orientation>0.3109335915513226</orientation>
+        <bndbox>
+            <xmin>227.0220203736828</xmin>
+            <ymin>148.07978218753945</ymin>
+            <xmax>257.02202037368284</xmax>
+            <ymax>178.07978218753945</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Janus</name>
+        <orientation>0.2965226461985343</orientation>
+        <bndbox>
+            <xmin>103.19983673424157</xmin>
+            <ymin>1.5117466593429292</ymin>
+            <xmax>133.19983673424156</xmax>
+            <ymax>31.51174665934293</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Janus</name>
+        <orientation>0.6959242904517554</orientation>
+        <bndbox>
+            <xmin>135.23445986312407</xmin>
+            <ymin>366.0798515583647</ymin>
+            <xmax>165.23445986312407</xmax>
+            <ymax>396.0798515583647</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Janus</name>
+        <orientation>0.520223714039591</orientation>
+        <bndbox>
+            <xmin>180.3425415452897</xmin>
+            <ymin>296.1449050893346</ymin>
+            <xmax>210.3425415452897</xmax>
+            <ymax>326.1449050893346</ymax>
+        </bndbox>
+    </object>
+</annotation>

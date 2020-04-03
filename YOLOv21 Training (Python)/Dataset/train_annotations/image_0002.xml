@@ -1,0 +1,60 @@
+<annotation>
+    <folder>train_images</folder>
+    <filename>image_0002.jpg</filename>
+    <path>/home/mona/Public/Martin/YOLOv2.1 Training (Python)/Dataset/train_images/image_0002.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>416</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Janus</name>
+        <orientation>0.2008258895183711</orientation>
+        <bndbox>
+            <xmin>264.21115691883443</xmin>
+            <ymin>70.77798261571048</ymin>
+            <xmax>294.21115691883443</xmax>
+            <ymax>100.77798261571048</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Janus</name>
+        <orientation>0.3345757816159266</orientation>
+        <bndbox>
+            <xmin>80.85275255275072</xmin>
+            <ymin>254.21518707694668</ymin>
+            <xmax>110.85275255275072</xmax>
+            <ymax>284.2151870769467</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Janus</name>
+        <orientation>0.003776834217290248</orientation>
+        <bndbox>
+            <xmin>352.43351999218714</xmin>
+            <ymin>285.520176848496</ymin>
+            <xmax>382.43351999218714</xmax>
+            <ymax>315.520176848496</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Janus</name>
+        <orientation>0.6516199733550477</orientation>
+        <bndbox>
+            <xmin>220.08420029448487</xmin>
+            <ymin>332.61787454054826</ymin>
+            <xmax>250.08420029448487</xmax>
+            <ymax>362.61787454054826</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Janus</name>
+        <orientation>0.23371481445507722</orientation>
+        <bndbox>
+            <xmin>343.7980137725419</xmin>
+            <ymin>178.7085607563353</ymin>
+            <xmax>373.7980137725419</xmax>
+            <ymax>208.7085607563353</ymax>
+        </bndbox>
+    </object>
+</annotation>
