@@ -30,6 +30,6 @@ This is an extension of the [YOLOv2-Framework](https://github.com/molecular-nano
 
 ## Repository Contents
 
-- [YOLOv2.1 Training (Python)](./YOLOv2%20Training%20(Python)):  Jupyter notebooks and Python modules for synthetic image generation, training and exporting YOLOv2 models with Python/Keras using the TensorFlow backend
+- [YOLOv2.1 Training (Python)](./YOLOv2%20Training%20(Python)):  Jupyter notebooks and Python modules for synthetic image generation, training and exporting YOLOv2.1 models with Python/Keras using the TensorFlow backend
 - [TF DLL](./TF%20DLL): DLL for running TensorFlow models on GPU (`TF.dll`)
-- [YOLOv2.1 DLL](./YOLOv21%20DLL): DLL for decoding the YOLOv2 output tensor (`YOLOv21.dll`)
+- [YOLOv2.1 DLL](./YOLOv21%20DLL): DLL for decoding the YOLOv2.1 output tensor (`YOLOv21.dll`)
