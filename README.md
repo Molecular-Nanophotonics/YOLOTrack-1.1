@@ -8,14 +8,14 @@ Molecular Nanophotonics Group, Peter Debye Institute for Soft Matter Physics, Un
 
 ## Content
 
-- [Discription](#discription)
+- [Description](#description)
 - [Repository Contents](#repository-contents)
 - [Users Guide](#users-guide)
 - [System Requirements](#system-requirements)
 - [Setup Instructions](#setup-instructions)
 - [License](./LICENSE)
 
-## Discription 
+## Description 
 
 This is an extension of the [YOLOv2-Framework](https://github.com/molecular-nanophotonics/YOLOv2-Framework/) to detect oriented bounding boxes. 
 
