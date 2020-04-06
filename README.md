@@ -24,7 +24,7 @@ This is an extension of the [YOLOv2-Framework](https://github.com/molecular-nano
 
 <p align="center">
   <img src="Resources/YOLOv21-Detection-Example.png" width=380> <br>
-  <b>Fig. 1</b> YOLOv2.1 detection for a synthetic image of microparticles as observed in a darkfield microscope.
+  <b>Fig. 1</b> YOLOv2.1 detection for a synthetic image of Janus-type particles as observed in a darkfield microscope.
 </p>
 
 
