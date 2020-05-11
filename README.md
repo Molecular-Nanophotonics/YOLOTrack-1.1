@@ -33,7 +33,7 @@ This is an extension of the [YOLOv2-Framework](https://github.com/molecular-nano
 - [YOLOv2.1 Training (Python)](./YOLOv2%20Training%20(Python)):  Jupyter notebooks and Python modules for synthetic image generation, training and exporting YOLOv2.1 models with Python/Keras using the TensorFlow backend
 - [TF DLL](./TF%20DLL): DLL for running TensorFlow models on GPU (`TF.dll`)
 - [YOLOv21 DLL](./YOLOv21%20DLL): DLL for decoding the YOLOv2.1 output tensor (`YOLOv21.dll`)
-- [YOLOv21 Inference (LabVIEW)](./YOLOv2%20Inference%20(LabVIEW)): Example for importing and running a trained YOLOv2.1 model in LabVIEW
+- [YOLOv21 Inference (LabVIEW)](./YOLOv21%20Inference%20(LabVIEW)): Example for importing and running a trained YOLOv2.1 model in LabVIEW
 - [YOLOv21 Inference (C++)](./YOLOv21%20Inference%20(C%2B%2B)): Example for importing and running a trained model with Qt/C++
 
 ## Users Guide
