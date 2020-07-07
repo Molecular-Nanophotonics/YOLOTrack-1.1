@@ -1,4 +1,4 @@
-# YOLOTrackv2.1 Framework for Digital Microscopy
+# YOLOTrack 1.1
 
 *M. Fränzl*
 
