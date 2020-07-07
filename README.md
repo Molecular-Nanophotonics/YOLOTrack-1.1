@@ -32,7 +32,7 @@ This is an extension of the [YOLOTrack 1.0](https://github.com/Molecular-Nanopho
 
 - [YOLOTrack 1.1 Training (Python)](./YOLOTrack%201.1%20Training%20(Python)):  Jupyter notebooks and Python modules for synthetic image generation, training and exporting YOLOTrack 1.1 models with Python/Keras using the TensorFlow backend
 - [TF DLL](./TF%20DLL): DLL for running TensorFlow models on GPU (`TF.dll`)
-- [YOLOTrack 1.1 DLL](./YOLOv21%20DLL): DLL for decoding the YOLOTrack 1.1 output tensor (`YOLOTrack11.dll`)
+- [YOLOTrack 1.1 DLL](./YOLOTrack%201.1%20DLL): DLL for decoding the YOLOTrack 1.1 output tensor (`YOLOTrack11.dll`)
 - [YOLOTrack 1.1 Inference (LabVIEW)](./YOLOTrack%201.1%20Inference%20(LabVIEW)): Example for importing and running a trained YOLOTrack 1.1 model in LabVIEW
 - [YOLOTrack 1.1 Inference (C++)](./YOLOTrack%201.1%20Inference%20(C%2B%2B)): Example for importing and running a trained model with Qt/C++
 
