@@ -1,5 +1,6 @@
-tensorflow.dll
 .ipynb_checkpoints
 .vs
 *_weights.h5
-*VC.db
+*.VC.db
+tensorflow.dll
+
