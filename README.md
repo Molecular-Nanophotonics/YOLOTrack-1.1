@@ -1,4 +1,4 @@
-# YOLOv2.1 Framework for Digital Microscopy
+# YOLOTrackv2.1 Framework for Digital Microscopy
 
 *M. Fränzl*
 
@@ -17,14 +17,14 @@ Molecular Nanophotonics Group, Peter Debye Institute for Soft Matter Physics, Un
 
 ## Description 
 
-This is an extension of the [YOLOv2-Framework](https://github.com/molecular-nanophotonics/YOLOv2-Framework/) to detect oriented bounding boxes. 
+This is an extension of the [YOLOTrack-1.0](https://github.com/Molecular-Nanophotonics/YOLOTrack-1.0/) to detect oriented bounding boxes. 
 
-<!-- This is a framework for the real-time localization and classification of objects in optical microscopy images using a single-shot covolutional neural network YOLO ("You Only Look Once") . We adapted the YOLOv2 architecture enabling to localize and classify objects at very low signal-to-noise ratios for images as large as 416 x 416 px at frame rates of up to 100 fps. Here, we provide scripts to train the network in Python/Keras using the TensorFlow backend and source codes to run the model inference on a GPU with C++ or LabVIEW.
+<!-- This is a framework for the real-time localization and classification of objects in optical microscopy images using a single-shot covolutional neural network YOLO ("You Only Look Once") . We adapted the TinyYOLOv2 architecture enabling to localize and classify objects at very low signal-to-noise ratios for images as large as 416 x 416 px at frame rates of up to 100 fps. Here, we provide scripts to train the network in Python/Keras using the TensorFlow backend and source codes to run the model inference on a GPU with C++ or LabVIEW.
 -->
 
 <p align="center">
   <img src="Resources/YOLOv21-Detection-Example.png" width=380> <br>
-  <b>Fig. 1</b> YOLOv2.1 detection for a synthetic image of Janus-type particles as observed in a darkfield microscope.
+  <b>Fig. 1</b> YOLOTrack 1.0 detection for a synthetic image of Janus-type particles as observed in a darkfield microscope.
 </p>
 
 
@@ -38,11 +38,11 @@ This is an extension of the [YOLOv2-Framework](https://github.com/molecular-nano
 
 ## Users Guide
 
-See [YOLOv2-Framework](https://github.com/molecular-nanophotonics/YOLOv2-Framework/).
+See [YOLOTrack-1.0](https://github.com/molecular-nanophotonics/YOLOTrack-1.0/).
 
 ## System Requirements
 
-See [YOLOv2-Framework](https://github.com/molecular-nanophotonics/YOLOv2-Framework/).
+See [YOLOTrack-1.0](https://github.com/molecular-nanophotonics/YOLOTrack-1.0/).
 
 ## Setup Instructions
 
