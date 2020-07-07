@@ -1,0 +1,8 @@
+﻿  dll.cpp
+dll.cpp(186): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+     Creating library C:\Users\mona\Desktop\YOLOTrack-1.1\YOLOTrack 1.1 DLL\x64\Release\YOLOTrack11.lib and object C:\Users\mona\Desktop\YOLOTrack-1.1\YOLOTrack 1.1 DLL\x64\Release\YOLOTrack11.exp
+  Generating code
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  YOLOTrack11 DLL.vcxproj -> C:\Users\mona\Desktop\YOLOTrack-1.1\YOLOTrack 1.1 DLL\x64\Release\YOLOTrack11.dll
+  YOLOTrack11 DLL.vcxproj -> C:\Users\mona\Desktop\YOLOTrack-1.1\YOLOTrack 1.1 DLL\x64\Release\YOLOTrack11.pdb (Full PDB)
