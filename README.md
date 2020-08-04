@@ -4,7 +4,7 @@
 
 Molecular Nanophotonics Group, Peter Debye Institute for Soft Matter Physics, Universität Leipzig, Linnestr. 5, 04103 Leipzig, Germany
 
-[M. Fränzl and F. Cichos, ..., ... (2020)](https://home.uni-leipzig.de/~physik/sites/mona/).
+[[1] M. Fränzl and F. Cichos, Active Particle Feedback Control with a Single‑Shot Detection Convolutional Neural Network, *Sci. Rep.* **10**, 12571 (2020)](http://www.nature.com/articles/s41598-020-69055-2).
 
 ## Content
 
